@@ -1,7 +1,7 @@
 ---
 title: Organization
 feature_text: |
-feature_image: "/assets/wallpic.jpeg"
-excerpt: "MSR Asia Summit 2023 Organization"
+feature_image: "/assets/kyoto_tango.jpg"
+excerpt: "EEE-OSS 2023 Organization"
 ---
 {% include all_organizers.html %}

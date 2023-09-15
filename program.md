@@ -1,8 +1,8 @@
 ---
 title: Program Schedule
 feature_text: |
-feature_image: "/assets/wallpic.jpeg"
-excerpt: "MSR Asia Summit 2023 Program"
+feature_image: "/assets/kyoto_tango.jpg"
+excerpt: "EEE-OSS 2023 Venue"
 
 ---
 <!-- <small>Talk 20 mins, QA 5 mins.</small> -->

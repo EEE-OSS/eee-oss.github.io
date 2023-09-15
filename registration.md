@@ -2,8 +2,8 @@
 title: Registration
 feature_text: |
   
-feature_image: "/assets/kyoto_tango.jpeg"
-excerpt: "MSR Asia Summit 2023 Registration"
+feature_image: "/assets/kyoto_tango.jpg"
+excerpt: "EEE-OSS 2023 Venue"
 #aside: true
 ---
 

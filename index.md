@@ -18,9 +18,6 @@ Welcome to the website of EEE-OSS 2023: Exploring Employee Experience in Open So
 
 {% include program_schedule.html  %}
 
-## <font color="MediumSeaGreen">Organizers</font>
-
-{% include organizers.html %}
 
 
 

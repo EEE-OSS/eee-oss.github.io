@@ -1,5 +1,5 @@
 ---
-title: Registration
+title: Submission
 feature_text: |
   
 feature_image: "/assets/kyoto_tango.jpg"

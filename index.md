@@ -1,8 +1,8 @@
 ---
-title: 
+title:
 feature_text: |
- 
-feature_image: "assets/kyoto_tango.jpg"
+
+feature_image: "assets/AdobeStock_184115485.jpeg"
 
 ---
 Welcome to the website of EEE-OSS 2023: Exploring Employee Experience in Open Source Software!

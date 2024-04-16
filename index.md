@@ -19,5 +19,13 @@ Welcome to the website of EEE-OSS 2023: Exploring Employee Experience in Open So
 {% include program_schedule.html  %}
 
 
+## <font color="MediumSeaGreen">OSS Myths and Facts</font>
+
+The ebook "OSS Myths and Facts" is available [here](https://arxiv.org/abs/2404.09223).
+
+
+
+
+
 
 
